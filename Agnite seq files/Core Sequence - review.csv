@@ -1,0 +1,21 @@
+Sequence,Intermediate Abort,Yes,Safety Abort,NA,Other,NA,,,,,,,
+,Sequence Name:,ECS 1,,,,,,,,,,,
+,No.of Sensors:,,,No.of Valves:,,,,,,,,,
+Sr. No.,CDT,Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(S),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence,Sequence Mode,Set of sample for averaging
+1,-18.45,N_EPV_138,DO,,Close,,,,-,,Engine sequence,,
+2,-18.45,N_EPV_185,DO,,Close,,,,-,,Engine sequence,,
+3,-5.45,Spark plug,DO,,Open,,,,-,,Engine sequence,,
+4,-4.45,G_EPV_70,DO,,Open,,,,-,,Engine sequence,,
+5,-3.95,M_EPV_90,DO,,Open,,,,-,,Engine sequence,,
+6,-3.95,I_PT_1,AI,in range,58\62,3,1.495,,-,,Engine sequence,Average,20
+7,-2.45,Spark plug,DO,,Close,,,,-,,Engine sequence,,
+8,-2.35,N_EPV_174,DO,,Close,,,,-,,Engine sequence,,
+9,-2.25,F_EPV_45,DO,,Open,,,,-,,Engine sequence,,
+10,-2.15,C_EPV_14,DO,,Close,,,,-,,Engine sequence,,
+11,-2.05,N_EPV_128,DO,,Close,,,,-,,Engine sequence,,
+12,-2,C_EPV_13,DO,,Open,,,,-,,Engine sequence,,
+13,-1,E_PT_P2,AI,in range,-5\10,3,0.995,,-,,Engine sequence,Average,20
+14,0,ATF_Motor,Drive,,ON,,,,-,,Engine sequence,,
+15,0.25,LOX_Motor,Drive,,ON,,,,-,,Engine sequence,,
+18,0.45,E_PT_P1,AI,in range,4\6,3,0.995,,-,,Engine sequence,,
+20,1.45,G_EPV_70,DO,,Close,,,,-,,Engine sequence,,
