@@ -1,0 +1,8 @@
+There’s an existing method we can use to set up a mobile Launchpad and Mission Control Room (MCR).
+We’ll use AirFiber technology, which gives us high-speed, long-range wireless communication — no physical cables needed.
+But since we have a forest blocking line of sight, direct AirFiber won’t work over 7 km.
+To solve this, we'll deploy a 30-meter movable relay tower that creates a clear wireless path between the MCR and Launchpad.
+The tower is telescopic and trailer-mounted, so it can be moved and set up wherever needed.
+This approach gives us a completely mobile, flexible, and safe communication network.
+It’s perfect for launch operations at changing locations, field trials, or remote mission testing.
+We can adopt this method to make our operations more efficient and field-ready.
